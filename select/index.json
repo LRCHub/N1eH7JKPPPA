@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "未来地図2025",
+  "base_artist": "Hitsujibungaku",
+  "createdAt": "2025-12-09T08:14:13.606794Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "未来地図2025",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/01_未来地図2025_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "未来地図2025",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_01_未来地図2025_羊文学.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "未来地図2025",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_02_未来地図2025_羊文学.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "未来地図2025",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_03_未来地図2025_羊文学.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "未来地図2025",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_04_未来地図2025_羊文学.txt"
+    }
+  ]
+}
